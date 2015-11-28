@@ -337,85 +337,7 @@
       <td>Bakım</td>
       <td>09.09.2015</td>
       <td>870</td>
-    </tr> <tr>
-      <td>015487</td>
-      <td>Volkswagen</td>
-      <td>Passat</td>
-      <td>Sigorta</td>
-      <td>10.11.2015</td>
-      <td>250</td>
-    </tr>
-	<tr>
-      <td>0545242</td>
-      <td>Volkswagen</td>
-      <td>Golf</td>
-      <td>Kasko</td>
-      <td>10.12.2015</td>
-      <td>350</td>
-    </tr>
-	<tr>
-      <td>245689</td>
-      <td>Volkswagen</td>
-      <td>jetta</td>
-      <td>Tamir</td>
-      <td>10.09.2015</td>
-      <td>890</td>
-    </tr>
-	<tr>
-      <td>245689</td>
-      <td>FİAT</td>
-      <td>Albea</td>
-      <td>Bakım</td>
-      <td>09.09.2015</td>
-      <td>870</td>
-    </tr>
-	<tr>
-      <td>758985</td>
-      <td>FİAT</td>
-      <td>Albea</td>
-      <td>Bakım</td>
-      <td>09.09.2015</td>
-      <td>870</td>
-    </tr> <tr>
-      <td>015487</td>
-      <td>Volkswagen</td>
-      <td>Passat</td>
-      <td>Sigorta</td>
-      <td>10.11.2015</td>
-      <td>250</td>
-    </tr>
-	<tr>
-      <td>0545242</td>
-      <td>Volkswagen</td>
-      <td>Golf</td>
-      <td>Kasko</td>
-      <td>10.12.2015</td>
-      <td>350</td>
-    </tr>
-	<tr>
-      <td>245689</td>
-      <td>Volkswagen</td>
-      <td>jetta</td>
-      <td>Tamir</td>
-      <td>10.09.2015</td>
-      <td>890</td>
-    </tr>
-	<tr>
-      <td>245689</td>
-      <td>FİAT</td>
-      <td>Albea</td>
-      <td>Bakım</td>
-      <td>09.09.2015</td>
-      <td>870</td>
-    </tr>
-	<tr>
-      <td>758985</td>
-      <td>FİAT</td>
-      <td>Albea</td>
-      <td>Bakım</td>
-      <td>09.09.2015</td>
-      <td>870</td>
-    </tr>
+    </tr> 
 
     
   </tbody>
@@ -441,10 +363,4 @@
 	
 </script>
 
-	
-	<?php 
-
-
-
-	?>
 </div>
