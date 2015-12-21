@@ -50,5 +50,34 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'home';
+
+/* Pages -------------------------- Routes */
+
+$route['arac'] 			= 'home/arac';
+$route['ekle'] 			= 'home/ekle';
+$route['kira_durum']	= 'home/kira_durum';
+$route['kira_fiyat']	= 'home/kira_fiyat';
+$route['bildirim']		= 'home/bildirim';
+$route['bildirim_detay']= 'home/bildirim_detay';
+$route['muhasebe']		= 'home/muhasebe';
+$route['musteriler']	= 'home/musteriler';
+$route['musteri_detay']	= 'home/musteri_detay';
+$route['firma']	= 'home/firma';
+
+
+
+/* Kullanıcı Giriş ve Çıkışları */
+$route['giris'] 		= 'home/giris';
+$route['login_control']	= 'home/login_control';
+$route['cikis']	= 'home/cikis';
+
+
+
+
+
+
+
+
+
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
